@@ -58,3 +58,6 @@ end
 myramp = Ramp.new(5)
 
 myramp.hello
+
+myramp2 = Ramp.new(10)
+
